@@ -1,5 +1,4 @@
-# Dino Game with Python
-# Dino Game em Python
+# Dino Game em Python (Dino Game with Python)
 
 ## PTBR:
 <p>
